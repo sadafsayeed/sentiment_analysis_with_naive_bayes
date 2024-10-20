@@ -1,2 +1,2 @@
-# sentiment_analysis_with_naive_bayes
-A Naive Bayes implementation for performing sentiment analysis on text data to classify sentiments as positive or negative
+# Sentiment_analysis_with_naive_bayes
+This repository contains an implementation of sentiment analysis using the Naive Bayes classifier. The project preprocesses text data, applies feature extraction techniques, and builds a model to classify text into positive or negative sentiments. It demonstrates the power of Naive Bayes for text classification tasks and can be applied to various datasets, such as reviews, social media posts, or product feedback
